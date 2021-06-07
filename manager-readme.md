@@ -97,5 +97,13 @@ Honestly, I've been listening to too much dreampop & shoegaze lately. I'm going 
 - *Counter Culture
 - Heart Roasters
 - Temple Coffee Roasters
+- Pair Cupworks
+- Dune Coffee Roasters
+- Hey Coffee Company
+- Camber Coffee
+- Corvus Roasters
+- Sweet Bloom
+- Red Rooster Coffee
+- *Equator Coffee
 
 _*Roasters with an asterisk are considered by Adam Whitlock to be too popular for their own good, which can impact consistency_
