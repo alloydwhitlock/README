@@ -69,7 +69,7 @@ These are some books I've found interesting or I've suggested to others. I've st
 - "An Elegant Puzzle: Systems of Engineering Management" Will Larson
 
 ### Music
-Honestly, I've been listening to too much dreampop & shoegaze lately. I'm going to own that. 
+Honestly, I've been listening to too much dreampop & shoegaze lately. I'm going to own that. If you like vinyl records, I've started to put my collection into Discogs. You can view it here: [https://www.discogs.com/user/alloydwhitlock/collection](https://www.discogs.com/user/alloydwhitlock/collection)
 
 ### Coffee
  
