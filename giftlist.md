@@ -6,7 +6,6 @@ Every year I get asked "hey, what do you want for X holiday". I usually say "som
 This is to prevent the backlog of wool socks from growing. I have this list, where I can add or make suggestions. If someone is technical or motivated enough, they can even file a PR to make a change! 
 
 ## Gift Cards ##
-The following stores are some places where I can buy vinyl records or components.
 
 ### Vinyl Records ###
 I love records and my collection can grow. 
@@ -28,5 +27,8 @@ I'll never be mad if you donate to a good cause instead of giving me a gift. In 
 * [Doctors Without Borders](https://donate.doctorswithoutborders.org/secure/donate)
 * [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
 
+## Physical Items ##
+
+### No Idea ###
 
 ***Last Updated: 2021-11-05***
