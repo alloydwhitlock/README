@@ -4,7 +4,7 @@
 
 ## Introduction
 
-My name is Adam Whitlock (pronouns he/him) and I am an engineering manager. I'm also a husband to a writer and prolific gardener, who spends her time filling every last inch of our yard with fruit trees. We have three children, who are all avid readers and are almost always running off with their friends on adventures in our neighborhood. We've got a few chickens we raise for eggs and a couple cats who keep our laps warm. 
+My name is Adam Whitlock (pronouns he/him) and I am an engineering leader. I have three children, all avid readers and almost always running off with their friends on adventures. I love to bike and go on walks, which means I live next to a well-loved trail. I listen to a lot of music and appreciate a good cup of coffee, which means I'll post some info about both of those hobbies below. 
 
 I come from a background in Site Reliability Engineering (SRE) and Data Platform teams. I care about ensuring that teams follow good SRE practices, are focused on delivering good results, always curious about problems, and understand that they own the problems that their teams can solve. 
 
@@ -106,5 +106,6 @@ Honestly, I've been listening to too much dreampop & shoegaze lately. I'm going 
 - Red Rooster Coffee
 - *Equator Coffee
 - Spectrum Coffees
+- Metric coffee
 
 _*Roasters with an asterisk are considered by Adam Whitlock to be too popular for their own good, which can impact consistency_
