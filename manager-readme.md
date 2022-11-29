@@ -6,7 +6,7 @@
 
 My name is Adam Whitlock (pronouns he/him) and I am an engineering leader. I have three children, all avid readers and almost always running off with their friends on adventures. I love to bike and go on walks, which means I live next to a well-loved trail. I listen to a lot of music and appreciate a good cup of coffee, which means I'll post some info about both of those hobbies below. 
 
-I come from a background in Site Reliability Engineering (SRE) and Data Platform teams. I care about ensuring that teams follow good SRE practices, are focused on delivering good results, always curious about problems, and understand that they own the problems that their teams can solve. 
+I come from a background in Site Reliability Engineering (SRE) and Data Platform teams. I care about ensuring that teams follow good SRE practices, are focused on delivering good results, always curious about problems, and understand that they own the problems that their teams can solve. Additionally, I have led a number of infrastructure and securirty teams, meaning I care a lot about the good fundamental operation and management of systems. Building stable, reliable, and secure platforms are my happy place. 
 
 
 ## Meetings
