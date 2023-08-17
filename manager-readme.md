@@ -64,7 +64,6 @@ These are some books I've found interesting or I've suggested to others. I've st
 - "The Shallows: What the Internet Is Doing to Our Brains" Nicholas Carr
 - "The Checklist Manifesto: How to Get Things Right" Atul Gawande 
 - "Site Reliability Engineering"  Beyer, Jones, Petoff and Murphy 
-- "Payoff" Dan Ariely
 - "How Music Works" David Byrne
 - "An Elegant Puzzle: Systems of Engineering Management" Will Larson
 
