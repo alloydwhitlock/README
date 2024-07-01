@@ -57,6 +57,16 @@ I need feedback to be better, so if I'm not defining something well or giving di
 We've all got personal lives, myself included. Do your best to set working hours and stick to them, that way people understand when you are working. I list mine as part of my "office hours". I hold myself accountable to being available in those hours and set clear expectations I won't be reachable for work otherwise. I can work in those outside hours, but that's my decision as much as working an odd hour here or there can be your own.
 
 
+## Axioms
+
+"The most expensive thing we can do is write bad software. Next to that, it's the actual development." 
+
+"The 7 Ps" - Prior Proper Preparation Prevents Piss Poor Performance. Old military adage, but it holds true. 
+
+"Documentation is a form of automation" - Write it down. If you can't explain it, you can't write it. 
+
+"Procedure, Process, Automation" - Procedures are a set of instructions for getting one thing done. A process is a series of tasks/activities (or procedures). Automation is when you put those things together. 
+
 ## Extra Information
 
 ### Work Books
