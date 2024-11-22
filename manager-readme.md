@@ -6,7 +6,7 @@
 
 My name is Adam Whitlock (pronouns he/him) and I am an engineering leader. I have three children, all avid readers and almost always running off with their friends on adventures. I love to bike and go on walks, which means I live next to a well-loved trail. I listen to a lot of music and appreciate a good cup of coffee, which means I'll post some info about both of those hobbies below. 
 
-I come from a background in Site Reliability Engineering (SRE) and Data Platform teams. I care about ensuring that teams follow good SRE practices, are focused on delivering good results, always curious about problems, and understand that they own the problems that their teams can solve. Additionally, I have led a number of infrastructure and securirty teams, meaning I care a lot about the good fundamental operation and management of systems. Building stable, reliable, and secure platforms are my happy place. 
+I come from a background in Site Reliability Engineering (SRE), Security, and Data Platform teams. I care about ensuring that teams follow good SRE practices, are focused on delivering good results, always curious about problems, and understand that they own the problems that their teams can solve. Additionally, I have led a number of infrastructure and securirty teams, meaning I care a lot about the good fundamental operation and management of systems. Building stable, reliable, and secure platforms are my happy place. 
 
 
 ## Meetings
@@ -29,7 +29,7 @@ _00:30 JST - 08:30 JST_
 I try to be as open with my schedule as possible, leaving flexible time to have impromptu conversations in Slack or Zoom. Without a hallway or break room to hang out in at times, that natural "gap" in the day needs to happen somewhere. You do not need to ask me if you can schedule a meeting directly; simply schedule it and I'll accept if I can attend. 
 
 ### Focus Time (Deep Work) 
-My calendar will have blocks of time booked each week for "focus time". This is the time that I use to focus on accomplishing a work task, such as writing this README.md or learning a skill like writing Clojure. I'm a firm believer in using focus time to accomplish work, even if it's not 100% focused on deep work. 
+My calendar will have blocks of time booked each week for "focus time". This is the time that I use to focus on accomplishing a work task, such as writing this README.md or learning a skill like whatever programming languages we use. I'm a firm believer in using focus time to accomplish work, even if it's not 100% focused on deep work. 
 
 If you are not familiar with using focus time (or deep work), there is a great introduction blog post by Doist that provides  an overview: [https://blog.doist.com/deep-work/](https://blog.doist.com/deep-work/)
 
@@ -78,7 +78,7 @@ These are some books I've found interesting or I've suggested to others. I've st
 - "An Elegant Puzzle: Systems of Engineering Management" Will Larson
 
 ### Music
-Honestly, I've been listening to too much dreampop & shoegaze lately. I'm going to own that. If you like vinyl records, I've started to put my collection into Discogs. You can view it here: [https://www.discogs.com/user/alloydwhitlock/collection](https://www.discogs.com/user/alloydwhitlock/collection)
+Honestly, I listen to dreampop, funk, psychedelic, shoegaze. A lot of things. I'm going to own that. If you like vinyl records, I've put my collection into Discogs. You can view it here: [https://www.discogs.com/user/alloydwhitlock/collection](https://www.discogs.com/user/alloydwhitlock/collection)
 
 ### Coffee
  
